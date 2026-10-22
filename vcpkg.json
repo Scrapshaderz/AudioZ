@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "audioz",
+  "version": "0.1.0",
+  "description": "AudioZ - Audio-Editor und Mastering-Werkzeug",
+  "license": "GPL-3.0-or-later",
+  "dependencies": [
+    "mp3lame"
+  ]
+}

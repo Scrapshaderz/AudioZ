@@ -1,0 +1,23 @@
+# Build-Ausgaben
+build/
+build-*/
+out/
+dist/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# vcpkg
+vcpkg_installed/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Sonstiges
+*.log
+.DS_Store
+Thumbs.db
